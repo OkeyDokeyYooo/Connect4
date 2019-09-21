@@ -1,4 +1,4 @@
-# ASSIGNMENT 5: Connect 4
+# Game: Connect 4
 ## Author: Allen Huang (301280711)
 ---
 ### **Description**:
